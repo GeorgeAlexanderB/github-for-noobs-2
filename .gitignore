@@ -1,5 +1,4 @@
-
-# Created by https://www.gitignore.io/api/windows,microsoftoffice,visualstudio
+# Created by https://www.gitignore.io/api/windows,microsoftoffice,visualstudio,CodeKit,Jekyll
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -333,4 +332,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
-# End of https://www.gitignore.io/api/windows,microsoftoffice,visualstudio
+# End of https://www.gitignore.io/api/windows,microsoftoffice,visualstudio,CodeKit,Jekyll
